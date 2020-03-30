@@ -1,0 +1,8 @@
+__pycache__/
+<<<<<<< HEAD
+.vscode/
+=======
+.vscode/
+venv
+.mypy_cache/
+>>>>>>> dev
